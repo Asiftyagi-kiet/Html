@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tag</title>
+</head>
+<!--------style backgroung------------>
+<body style="background: pink;">
+
+	<!--  Paragraph Tag----->
+	<p> This is my computer</p>
+	<!--  text bold Tag----->
+	<b> This is my computer</b>
+     <!-- new line start Tag----->
+	<br>
+	<!-- text center Tag----->
+	<center> This is my computer</center>
+	<!-- text italic Tag----->
+	<i>This is my computer</i><br><br>
+		
+	<!--anchor link  Tag----->
+	<a href="hakerrank.com"> Read more</a>
+	<!-- Text are slide  Tag----->
+	<marquee> This my computer</marquee>
+	<!-----modify tag any text------------>
+	<span> Hello my computer</span>
+
+	</body>
+</html>
