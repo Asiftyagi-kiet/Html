@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Style.css</title>
+</head>
+<!---------web page color in background------------->
+<body style="background: orange;">
+
+<!---------Heading color, align center postion------------->
+<h1 style="color: green; text-align: center;">The Kiet college is the best college in N.C.R</h1>
+
+<!---------Heading color, background color------------->
+<h2 style="color: red; background: white;">Computer is electronic machine</h2>
+
+<!---------Heading color, background color------------->
+<h2 style="color: white; background: red;">Kiet college is provide best placement</h2>
+
+<!---------Paragraph color, background color- text mentain------------>
+<p style="color:pink;background: green; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+</body>
+</html>
