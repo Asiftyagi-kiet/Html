@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Html.com</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"><<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to KIET college</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+/p>
+
+</body>
+</html> 
+
+<h1>My Name is Asif Tyagi</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+</body>
+</html>
