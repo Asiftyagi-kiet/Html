@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The iframe</h1>
+<!---------------include any website name------------------>
+<iframe src="https://www.w3schools.com">
+</iframe>
+
+</body>
+</html>
