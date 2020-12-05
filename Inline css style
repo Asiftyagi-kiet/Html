@@ -3,7 +3,7 @@
 <title>Web page ----------- Style.css</title>
 </head>
 <!---------web page color in background------------->
-<body style="background: orange;">
+<body style="background: red;">
 
 <!---------Heading color, align center postion------------->
 <h1 style="color: green; text-align: center;">The Kiet college is the best college in N.C.R</h1>
