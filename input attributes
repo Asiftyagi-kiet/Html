@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
 <h1>The input readonly attribute</h1>
 
 <p>The readonly attribute specifies that an input field should be read-only (cannot be changed):</p>
