@@ -4,6 +4,7 @@
 <title>Web page ----------- Style.css</title>
 </head>
 <!---------web page color in background------------->
+
 <body style="background: blue;">
 
 <!---------Heading color, align center postion------------->
