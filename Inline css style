@@ -9,12 +9,15 @@
 <body style="background: blue;">
 
 <!---------Heading color, align center postion------------->
+
 <h1 style="color: green; text-align: center;">The Kiet college is the best college in N.C.R</h1>
 
 <!---------Heading color, background color------------->
+
 <h2 style="color: red; background: white;">Computer is electronic machine</h2>
 
 <!---------Heading color, background color------------->
+
 <h2 style="color: white; background: red;">Kiet college is provide best placement</h2>
 
 <!---------Paragraph color, background color- text mentain------------>
